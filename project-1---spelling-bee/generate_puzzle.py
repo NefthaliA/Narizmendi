@@ -4,6 +4,8 @@
 # CS 111, Fall 2022, Reckinger
 # Outputs the beehive after inputting 7 random characters.
 
+// Where I wrote code for the minigame
+
 global letters
 
 # Inputs the user to type 7 characters to write. 
