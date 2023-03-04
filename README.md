@@ -6,4 +6,4 @@ For/While loops
 Variables 
 Vectors
 Cin/Getline (inputs)
-and much more...
+and much more.
