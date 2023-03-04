@@ -1,6 +1,6 @@
 # Program Design I/II
 Created various projects throughout my college semester using Python and C++
-Use of:
+with the use of:
 If/Else,
 For/While loops,
 Variables,
