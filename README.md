@@ -1,2 +1,2 @@
-# Program Design I (Python)
-Created various projects throughout my college semester using Python 
+# Program Design I/II
+Created various projects throughout my college semester using Python and C++
